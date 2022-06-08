@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tamashiiii.
-- 👀 I’m interested in improve my JAVA.
+- 👀 I’m interested in improving my JAVA.
 - 🌱 I’m currently learning OOP.
 - 💞️ I’m looking to collaborate on anything really.
 - 📫 How to reach me vladkavodickova@gmail.com
